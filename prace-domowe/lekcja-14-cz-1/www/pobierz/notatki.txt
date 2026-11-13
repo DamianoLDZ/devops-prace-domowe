@@ -1,0 +1,1 @@
+Notatki z konfiguracji serwera Nginx.
